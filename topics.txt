@@ -1,0 +1,72 @@
+Machine Learning Topics:
+
+Unit 1: Introduction to Machine Learning
+- [ ] Demystifying ML and Deeper Look at ML
+- [ ] ML Avatar and Principal of ML
+- [ ] Train_Test_Split, KFold_and_Leaveoneout
+- [ ] Sklearn
+- [ ] Data Preprocessing, Sk-learn
+- [ ] Linear Regression
+- [ ] KNN
+- [ ] Linear Classifier
+- [ ] Logistic Regression
+- [ ] Decision tree & Overfitting
+- [ ] Introduction to NLP
+- [ ] Web Scraping and NLTK
+- [ ] Representing Text and Language – Bag of Words
+- [ ] Word Embedding & Word2Vec
+- [ ] SVM Linear Classifier
+- [ ] Ensemble Methods – Bagging
+- [ ] Decision Trees
+
+Unit 2:  Neural Networks
+- [ ] Word Embedding & Word2Vec
+- [ ] Intro to NLP
+- [ ] Perceptrons
+- [ ] MLP
+- [ ] Neural Networks
+- [ ] Gradient Descent
+- [ ] Data Visualization
+- [ ] Unsupervised Learning-Clustering
+- [ ] Clustering
+- [ ] Isomap
+- [ ] t-SNE
+- [ ] Intro to PCA
+- [ ] PCA and Eigen Faces
+- [ ] Overfitting and Generalization
+- [ ] Performance Metrics
+- [ ] Features for Perception: Image & Audio
+- [ ] Non- linear SVM & Kernels
+- [ ] Human in the loop, Ensemble Method
+
+Unit 3: Deep Learning
+- [ ] Convolutional Layer, Backpropagation
+- [ ] Pytorch
+- [ ] CNN, Back Propagation and Auto-encoder
+- [ ] Tensorflow - Keras
+- [ ] Time Series & Modeling
+- [ ] Recommendation Systems
+- [ ] CNN Architecture and CNN for all
+- [ ] RNN
+- [ ] Appreciating CNN & Advances in Training
+- [ ] LSTM & GRU
+- [ ] Foundations in Speech Processing & ML in Speech
+
+Unit 4: Advance Machine Learning
+- [ ] Model Compression
+- [ ] Transfer Learning
+- [ ] Beyond AlexNet
+- [ ] Advance in Training
+- [ ] Siamese Networks
+- [ ] GAN’s
+- [ ] Attention
+- [ ] Introduction to Hugging Face Transformer Library
+- [ ] Attention and Transformers
+- [ ] HF Model training (Fine tunning Tfr) with HF dataset and Custom dataset
+- [ ] Performing Classification with Encoder architecture
+- [ ] Fine tuning GPT2, PEFT-LoRA
+- [ ] Open Source LMM & Langchain
+- [ ] Deployment Practical Issues
+- [ ] Langchain
+- [ ] Agentic AI
+
